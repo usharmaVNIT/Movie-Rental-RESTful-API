@@ -1,0 +1,6 @@
+CHECK FOR LOGICS
+like asyncMiddleware and errorhandlers , etc in the files
+express-async-errors performs the same task as asyncMiddleware
+see documentation 
+express-async-errors or asyncMiddleware are only in contrast to express now if the
+error Is outside the express then it will not be caught in the request processing pipeline example errors in the index.js itself

@@ -1,0 +1,5 @@
+{
+  "name": "Express App Test",
+  "jwtPrivateKey": "1234",
+  "db": "mongodb+srv://dbUser:dbUserpass@cluster0.jl9k1.mongodb.net/Newdb?retryWrites=true&w=majority"
+}

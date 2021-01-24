@@ -1,0 +1,7 @@
+{
+  "__comment__": "learn_jwkPrivate key in value (right side) is the name of the environment variable to which our variable jwtPrivateKey will be mapped",
+  "jwtPrivateKey": "jwtPrivateKey",
+  "dbUser": "dbUser",
+  "dbUserpassword": "dbUserpassword",
+  "dbName": "dbName"
+}

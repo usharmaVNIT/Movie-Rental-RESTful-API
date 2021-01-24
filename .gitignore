@@ -1,0 +1,8 @@
+node_modules/
+converage/
+.codesandbox/
+yarn.lock
+logfile.log
+uncaughtException.log
+test/
+test-folder/
